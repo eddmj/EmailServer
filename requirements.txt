@@ -1,0 +1,6 @@
+click==6.7
+Django==2.0
+djangorestframework==3.7.4
+ez-setup==0.9
+python-dotenv==0.7.1
+pytz==2017.3
